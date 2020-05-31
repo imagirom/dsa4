@@ -1,0 +1,10 @@
+name: dsa
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - matplotlib
+  - numpy
+  - termcolor
+prefix: /home/roman/anaconda3/envs/dsa
+
